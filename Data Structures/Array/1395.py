@@ -1,3 +1,10 @@
+'''
+1395. Count Number of Teams: https://leetcode.com/problems/count-number-of-teams/
+
+Time Complexity = O(n^2)
+Space Complexity = O(n)
+
+'''
 class Solution:
     def numTeams(self, rating: List[int]) -> int:
         elements_greater_than_current_rating = len(rating)*[0]
