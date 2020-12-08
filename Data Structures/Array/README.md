@@ -21,8 +21,10 @@ Array Problems from Leetcode
 	 Problem Link: https://leetcode.com/problems/sort-the-matrix-diagonally/ <br>
 	 Solution Link: https://github.com/abhinav1592/leetcode_problems_and_learnings/blob/master/Data%20Structures/Array/1329.py<br>
 	 Learnings:<br>
-	 1.  A[i][j] on the same diagonal have same value of i - j.<br>
-	 2.
+	 a.  A[i][j] on the same diagonal have same value of i - j.<br>
+	 b.  Reverse sort - Array.sort(reverse=1)<br>
+	 c.  Learn to use zip and iter through this solution: https://leetcode.com/problems/sort-the-matrix-diagonally/discuss/489846/Several-Python-solutions and try solving
+	 with less space.<br>
 
 
 
