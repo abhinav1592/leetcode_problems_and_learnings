@@ -1,7 +1,8 @@
 
 Array Problems from Leetcode
 <br>
-<ul>
+<br>
+
 
 1.  1395. Count Number of Teams<br>
    Problem Link: https://leetcode.com/problems/count-number-of-teams/<br>
@@ -16,7 +17,8 @@ Array Problems from Leetcode
 	    and you can avoid extra space to maintain it.<br>
 	 f.  Solution which is in the link uses extra-space and next time when you visit this
 	    problem, try to solve with O(1) space.<br>
-
+<br>
+<br>
 2.  1329. Sort the Matrix Diagonally <br>
 	 Problem Link: https://leetcode.com/problems/sort-the-matrix-diagonally/ <br>
 	 Solution Link: https://github.com/abhinav1592/leetcode_problems_and_learnings/blob/master/Data%20Structures/Array/1329.py<br>
@@ -28,6 +30,3 @@ Array Problems from Leetcode
 
 
 
-
-
-</ul>
